@@ -26,7 +26,7 @@
 
 ### Ссылки
 
-- Live site URL: [](https://where-is-the-country.vercel.app/ )
+- [Live site URL](https://where-is-the-country.vercel.app/) - Сайт
 
 ### Используемые технологии
 
