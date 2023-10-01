@@ -31,7 +31,7 @@
 
 ### Ссылки
 
-- Live site URL: [Добавить URL живого сайта здесь](https://your-live-site-url.com )
+- Live site URL: [](https://your-live-site-url.com )
 
 ### Используемые технологии
 

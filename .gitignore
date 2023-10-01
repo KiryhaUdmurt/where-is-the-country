@@ -1,3 +1,7 @@
+# production
+/build
+
+
 # Logs
 logs
 *.log
@@ -22,3 +26,7 @@ dist-ssr
 *.njsproj
 *.sln
 *.sw?
+
+build
+
+.env
